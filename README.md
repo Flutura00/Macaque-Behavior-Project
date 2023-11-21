@@ -7,4 +7,6 @@ There are 3 files
 Preprocessing 1  -I do the first stage of preprocessing, which includes droping the parameters that are not needed in our analysis.\
 Preprocessing 2 - The data was collected with Animal Behavior Pro app (Newton-Fisher 2012). I prepprocessed the data so that the variables in my dataset are clean and in the right format.\
 Data analysis - The data is analyzed using statistical models from the brms package.
+
+
 Data analysis html file : http://htmlpreview.github.io/?https://raw.githubusercontent.com/Flutura00/Macaque-Behavior-Project_in_R/main/docs/Data_analysis.html
